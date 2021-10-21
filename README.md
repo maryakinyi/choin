@@ -14,7 +14,7 @@ Students can login and check their balance and use Choins to redeem for the avai
 Trainers.
 Trainers can login and give choin rewards to any student on campus at any time.
 Admin.
-Admin can mangage the entire system and keep the wallet rolling.
+Admin can mangage the entire system and keep the wallet rolling and updates the reward to be redeemed.
 
 ### Requirements 
  *Django*

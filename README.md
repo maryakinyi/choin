@@ -11,20 +11,20 @@
 
  Students.
 Students can login and check their balance and use Choins to redeem for the availale rewards.
-Teachers.
-Teachers can login and give choin rewards to any student on campus at any time.
+Trainers.
+Trainers can login and give choin rewards to any student on campus at any time.
 Admin.
-Admin can mangage the entire system and keep the bank rolling.
+Admin can mangage the entire system and keep the wallet rolling.
 
-### Requirements
+### Requirements 
  * Django 
-  asgiref==3.4.1
-dj-database-url==0.5.0
-Django==3.2.8
-django-heroku==0.3.1
-gunicorn==20.1.0
-psycopg2==2.9.1
-pytz==2021.3
-sqlparse==0.4.2
-whitenoise==5.3.0
+  - asgiref==3.4.1
+  - dj-database-url==0.5.0
+  - Django==3.2.8
+  - django-heroku==0.3.1
+  - gunicorn==20.1.0
+  - psycopg2==2.9.1
+  - pytz==2021.3
+  - sqlparse==0.4.2
+  - whitenoise==5.3.0
 

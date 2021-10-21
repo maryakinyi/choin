@@ -17,7 +17,7 @@ Admin.
 Admin can mangage the entire system and keep the wallet rolling.
 
 ### Requirements 
- * Django 
+ *Django*
   - asgiref==3.4.1
   - dj-database-url==0.5.0
   - Django==3.2.8
